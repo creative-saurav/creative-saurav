@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://subir-portfolio.netlify.app/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/creative-saurav">GitHub</a>
+  <a href="https://subir-sarker-saurav.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://www.fiverr.com/creative_saurav">Fiverr</a>
 </p>
