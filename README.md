@@ -39,7 +39,6 @@ Git • GitHub • Vite • Postman • Vercel • Firebase
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=creative-saurav&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-saurav&theme=tokyonight&hide_border=true" />
 </p>
 
