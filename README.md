@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-Building modern web applications with JavaScript, React, Node.js, Laravel and modern web technologies.
+Building modern web applications with JavaScript, React, Node.js, PHP, Laravel, CodeIgniter and modern web technologies.
 </p>
 
 ---
