@@ -6,12 +6,6 @@
 Building modern web applications with JavaScript, React, Node.js, Laravel and modern web technologies.
 </p>
 
-<p align="center">
-  <a href="https://subir-portfolio.netlify.app/">Portfolio</a> •
-  <a href="https://github.com/creative-saurav">GitHub</a> •
-  <a href="https://www.fiverr.com/creative_saurav">Fiverr</a>
-</p>
-
 ---
 
 ## Technologies
